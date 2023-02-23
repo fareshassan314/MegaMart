@@ -27,17 +27,17 @@ In addition to this, he wants to input a sales target and see how the sales agen
 
 # Top 5 product categories by sales of the selected month
 
-![4](https://user-images.githubusercontent.com/125029514/220945288-09d2f757-296c-43e9-bdd7-4d481aa3743d.jpeg)![9](https://user-images.githubusercontent.com/125029514/220945333-bd4555cc-acf5-4058-a252-d04e0994808a.jpeg)
+![4](https://user-images.githubusercontent.com/125029514/220947768-1475fef2-58ad-4f6f-b0e8-584a3706a9e7.jpeg)
 
-![5](https://user-images.githubusercontent.com/125029514/220945295-59c15005-20ec-4edb-bfb6-ed1dcefc36f5.jpeg)
+![5](https://user-images.githubusercontent.com/125029514/220947801-b82742aa-8abf-4e45-a5d8-f8ebe853385d.jpeg)
 
-![6](https://user-images.githubusercontent.com/125029514/220945412-bee7f7be-071e-4ff5-b874-883a04f667ac.jpeg)
+![6](https://user-images.githubusercontent.com/125029514/220947824-119f8729-ea08-4a24-96b5-e9a1bb8f1d27.jpeg)
 
-![7](https://user-images.githubusercontent.com/125029514/220945440-0a336214-070d-4bcb-a458-a7546c702ec9.jpeg)
+![7](https://user-images.githubusercontent.com/125029514/220947874-6a9b45c0-d6cd-4444-9e02-37632b913bfa.jpeg)
 
-![8](https://user-images.githubusercontent.com/125029514/220945466-bf63efc1-12c4-4621-bc43-a47c01e3534d.jpeg)
+![8](https://user-images.githubusercontent.com/125029514/220947904-e545fb1f-dd30-4072-bbda-3ac6ddafda8f.jpeg)
 
-![9](https://user-images.githubusercontent.com/125029514/220945488-a377bb6c-4917-4a47-8a89-8fefd9e027b1.jpeg)
+![9](https://user-images.githubusercontent.com/125029514/220947919-9f35c0fb-01c6-4f1c-bb77-d0090317ab24.jpeg)
 
 # Dashboard
 
